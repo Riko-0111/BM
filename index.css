@@ -1,0 +1,115 @@
+
+.body{
+     font-family: "ヒラギノ角ゴ ProN W3"; 
+}
+
+
+.header {
+    background-color: rosybrown;
+    height: 80px;
+}
+
+.header-logo {
+    font-size: 25px;
+    color: white;
+}
+
+h1{
+    display: inline-block;
+    font-size:25px;
+    color:#330000;
+   border-bottom: 1px solid saddlebrown;
+   width:220px;
+}
+
+.nikukyu{
+    width:30px;
+    height:30px;
+    position:absolute; top:110px; left: 185px;
+}
+
+.p{
+    font-size:15px;
+    line-height: 1;
+}
+
+h2{
+    display: inline-block;
+    font-size:25px;
+    color:#330000;
+   border-bottom: 1px solid saddlebrown;
+   width:390px;   
+}
+
+.nikukyu2{
+    width:30px;
+    height:30px;
+    position:absolute; top:240px; left: 355px;
+}
+
+.red {
+    float: left;
+    margin-right: 15px;
+    margin-bottom:20px
+    width:160px;
+    height:160px;
+}
+
+.icon {
+    width: 76px;
+    height: 76px;
+    float: left;
+    float: top;
+}
+
+.header-logo {
+    padding: 5px 0px 0px 80px;
+}
+
+.header-logo span {
+    font-size: 50px;
+    color: white;
+}
+
+.sarch {
+    width: 65px;
+    height: 65px;
+    float:right;
+    position:absolute; top:15px; right: 17px;
+}
+
+h3{
+    font-size:25px;
+    color:#330000;
+   border-bottom: 1px solid saddlebrown;
+   width: 200px;  
+   margin-top:10px;   
+}
+
+
+.contact-form p{
+    color:white;
+    background-color: rosybrown;
+    width:250px
+}
+
+.footer{
+    background-color: rosybrown;
+}
+
+h4{
+    vertical-align: top;
+    font-size:20px;
+    padding:10px 0px 0px 15px
+}
+
+.footer p{
+    vertical-align: top;
+    font-size:12px;
+}
+
+.nikukyu3{
+    width:30px;
+    height:30px;
+    position:absolute; top:476px; left: 162px;
+}
